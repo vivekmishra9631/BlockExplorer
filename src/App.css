@@ -1,0 +1,28 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .bg-brown-400 {
+    background-color: #665b12;
+  }
+  .shadow-brown-500 {
+    box-shadow: 0 1px 3px 0 rgba(47, 36, 37, 0.5);
+  }
+  .purple-400 {
+    background-color: #7b3edf;
+  }
+  .blue-500 {
+    background-color: #4d48c5;
+  }
+  .shadow-purple-700 {
+    box-shadow: 0 1px 3px 0 rgba(23, 26, 36, 0.5);
+  }
+  .text-white {
+    color: #f8f9fa; /* Foggy white */
+  }
+}
+
+
+
