@@ -6,6 +6,9 @@ and Tailwind CSS. App is fully responsive.
 ##See demo on:
 https://block-explorer-three.vercel.app/
 
+##What I will like to build more in this project?
+Make a full stack App like Etherscan using Moralis API and Ether.js
+
 ## Available Scripts
 
 In the project directory, you can run:
