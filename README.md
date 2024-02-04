@@ -7,7 +7,7 @@ and Tailwind CSS. App is fully responsive.
 https://block-explorer-three.vercel.app/
 
 ##What I will like to build more in this project?
-Make a full stack App like Etherscan using Moralis API and Ether.js
+Make a full stack Bitcoin Explorer using Bitcoin API
 
 ## Available Scripts
 
